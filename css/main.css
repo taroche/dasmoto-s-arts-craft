@@ -6,3 +6,10 @@ h1 {
     background-image: url("/img/pattern.jpeg");
     text-align: center;
 }
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
