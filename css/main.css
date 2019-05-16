@@ -25,3 +25,9 @@ h2 {
 #paint {
     background-color: skyblue;
 }
+
+.blue {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
